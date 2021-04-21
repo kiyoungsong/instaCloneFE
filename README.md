@@ -26,3 +26,5 @@ This Project is Instagram Clone Coding part of Front End 😉
    - Ajax
 
 ## Result
+![clone1](https://user-images.githubusercontent.com/21999226/115595687-33479480-a312-11eb-8c43-4e6ac1e74bea.PNG)
+![clone2](https://user-images.githubusercontent.com/21999226/115595694-3478c180-a312-11eb-9b71-c67dd7416b53.PNG)
